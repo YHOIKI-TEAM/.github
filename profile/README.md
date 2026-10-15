@@ -1,18 +1,19 @@
- <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:07111F,50:103548,100:087F8C&text=YHOIKI&fontSize=68&fontColor=FFFFFF&fontAlignY=40&desc=PT%20Yhoiki%20Digital%20Nusantara&descSize=18&descAlignY=62&animation=fadeIn" width="100%" alt="Yhoiki Digital Nusantara"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:0F1A0F,50:243626,100:6B8F75&text=YHOIKI&fontSize=68&fontColor=F2FBF4&fontAlignY=40&desc=PT%20Yhoiki%20Digital%20Nusantara&descSize=18&descColor=B9D1C1&descAlignY=62&animation=fadeIn" width="100%" alt="Yhoiki Digital Nusantara"/>
 
 ### Transformasi Digital yang Lebih Cerdas untuk Bisnis Anda
 
 Solusi digital berbasis **Software, AI, Blockchain, dan SaaS** untuk membantu bisnis tumbuh di era digital.
 
-[Website Resmi](https://yhoiki-landing-page.vercel.app/) · [GitHub Repositories](https://github.com/orgs/YHOIKI-TEAM/repositories) · [Hubungi Kami](https://yhoiki-landing-page.vercel.app/)
+[Website Resmi](https://yhoiki-landing-page.vercel.app/) · [GitHub Repositories](https://github.com/orgs/YHOIKI-TEAM/repositories) · [Hubungi Kami](mailto:yhoikiteam@gmail.com)
 
 <br/>
 
-<img src="https://img.shields.io/badge/Software-Development-087F8C?style=for-the-badge" alt="Software Development"/>
-<img src="https://img.shields.io/badge/Artificial-Intelligence-2563EB?style=for-the-badge" alt="Artificial Intelligence"/>
-<img src="https://img.shields.io/badge/Digital-Innovation-0F766E?style=for-the-badge" alt="Digital Innovation"/>
+<img src="https://img.shields.io/badge/Software-Development-6B8F75?style=for-the-badge&labelColor=16221A" alt="Software Development"/>
+<img src="https://img.shields.io/badge/Artificial-Intelligence-8FD9A8?style=for-the-badge&labelColor=16221A" alt="Artificial Intelligence"/>
+<img src="https://img.shields.io/badge/Digital-Innovation-7FA38A?style=for-the-badge&labelColor=16221A" alt="Digital Innovation"/>
 
 </div>
 
@@ -20,7 +21,7 @@ Solusi digital berbasis **Software, AI, Blockchain, dan SaaS** untuk membantu bi
 
 ## ◈ Tentang Yhoiki
 
-**PT Yhoiki Digital Nusantara** adalah perusahaan teknologi yang berfokus pada pengembangan produk digital berbasis software serta pemanfaatan teknologi modern seperti Artificial Intelligence (AI), Blockchain, dan Software as a Service (SaaS).
+**PT Yhoiki Digital Nusantara** adalah perusahaan teknologi Indonesia yang berfokus pada pengembangan produk digital berbasis software serta pemanfaatan teknologi modern seperti Artificial Intelligence (AI), Blockchain, dan Software as a Service (SaaS).
 
 Kami berkomitmen menghadirkan solusi yang relevan, praktis, dan berkelanjutan untuk membantu bisnis beradaptasi dengan perkembangan teknologi.
 
@@ -97,7 +98,7 @@ Pemanfaatan teknologi untuk mendukung efisiensi dan transformasi bisnis.
 <div align="center">
 
 <a href="https://yhoiki-landing-page.vercel.app/">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:102C36,100:087F8C&text=Ndaki&fontSize=34&fontColor=FFFFFF&desc=Smart%20Hiking%20%26%20Outdoor%20Ecosystem&descSize=13&descAlignY=76" width="100%" alt="Ndaki"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:16221A,100:6B8F75&text=NDAKI&fontSize=36&fontColor=F2FBF4&desc=Smart%20Hiking%20%26%20Outdoor%20Ecosystem&descSize=13&descColor=F2FBF4&descAlignY=76" width="100%" alt="Ndaki"/>
 </a>
 
 </div>
@@ -106,17 +107,17 @@ Pemanfaatan teknologi untuk mendukung efisiensi dan transformasi bisnis.
 
 **Smart Hiking & Outdoor Ecosystem**
 
-Inisiatif teknologi outdoor yang mengembangkan pengalaman mendaki melalui ekosistem digital, pemetaan, pelacakan lokasi, dan pengalaman berbantuan AI.
+Ndaki merupakan produk teknologi outdoor yang berfokus pada pengalaman mendaki melalui ekosistem digital, pemetaan, pelacakan lokasi, manajemen perjalanan, dan pengalaman berbantuan AI.
 
 - Smart hiking ecosystem
-- Offline-oriented outdoor experiences
 - Hiking and trip management
+- Location tracking and navigation
 - Outdoor technology innovation
 
 <div align="center">
 
 <a href="https://yhoiki-landing-page.vercel.app/">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:14233D,100:2456A6&text=Yho%20Agency&fontSize=30&fontColor=FFFFFF&desc=Digital%20Solutions%20for%20Modern%20Businesses&descSize=13&descAlignY=76" width="100%" alt="Yho Agency"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:0F1A0F,100:345C44&text=YHO%20AGENCY&fontSize=32&fontColor=F2FBF4&desc=Digital%20Solutions%20for%20Modern%20Businesses&descSize=13&descColor=F2FBF4&descAlignY=76" width="100%" alt="Yho Agency"/>
 </a>
 
 </div>
@@ -130,7 +131,7 @@ Unit layanan digital yang membantu bisnis membangun kehadiran online dan mengemb
 - Website and application development
 - Visual branding and UI/UX design
 - AI and business automation
-- Social media management
+- Digital presence and social media solutions
 
 ## ◈ Technology Stack
 
@@ -142,7 +143,7 @@ Unit layanan digital yang membantu bisnis membangun kehadiran online dan mengemb
 
 **Mobile & Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="React Native, React, Next.js, Tailwind CSS"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="React, Next.js, Tailwind CSS"/>
 
 **Backend & Database**
 
@@ -199,12 +200,12 @@ PT Yhoiki Digital Nusantara merupakan perusahaan teknologi digital berbentuk **P
 |:--|:--|
 | Nama perusahaan | PT Yhoiki Digital Nusantara |
 | Bentuk usaha | Perseroan Perorangan |
-| Bidang usaha | Teknologi & solusi digital |
-| NIB | Sesuai dokumen resmi OSS |
-| Registrasi pajak | NPWP Badan |
-| Informasi legalitas | [Website resmi](https://yhoiki-landing-page.vercel.app/) |
+| Bidang usaha | Teknologi dan solusi digital |
+| NIB | Tersedia dalam dokumen resmi OSS |
+| NPWP | NPWP Badan |
+| Website | [yhoiki-landing-page.vercel.app](https://yhoiki-landing-page.vercel.app/) |
 
-*Nomor legalitas dan dokumen resmi dapat ditampilkan pada halaman legalitas perusahaan. Pastikan seluruh informasi telah diverifikasi sebelum dipublikasikan.*
+*Informasi legalitas dapat diverifikasi melalui dokumen resmi perusahaan. Hindari mempublikasikan nomor identitas perpajakan atau data sensitif perusahaan secara terbuka.*
 
 ## ◈ Roadmap & Masa Depan
 
@@ -222,7 +223,7 @@ Kami terbuka terhadap peluang kerja sama jangka panjang dengan:
 - Komunitas developer dan inovator.
 - Institusi pendidikan serta komunitas riset.
 
-Kami mengutamakan komunikasi yang jelas, ruang lingkup kerja yang terdefinisi, dan kolaborasi yang saling memberikan nilai.
+Kami mengutamakan komunikasi yang jelas, ruang lingkup kerja yang terdefinisi, serta kolaborasi yang saling memberikan nilai.
 
 <div align="center">
 
@@ -231,16 +232,16 @@ Kami mengutamakan komunikasi yang jelas, ruang lingkup kerja yang terdefinisi, d
 Punya ide, kebutuhan teknologi, atau peluang kolaborasi?
 
 <a href="https://yhoiki-landing-page.vercel.app/">
-<img src="https://img.shields.io/badge/Explore%20Yhoiki-087F8C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore Yhoiki"/>
+<img src="https://img.shields.io/badge/EXPLORE%20YHOIKI-6B8F75?style=for-the-badge&logo=googlechrome&logoColor=F2FBF4&labelColor=16221A" alt="Explore Yhoiki"/>
 </a>
 
 <br/><br/>
 
-[Website Resmi](https://yhoiki-landing-page.vercel.app/) · [GitHub](https://github.com/orgs/YOUR-ORG-NAME/repositories) · [Email](mailto:yhoikiteam@gmail.com)
+[Website Resmi](https://yhoiki-landing-page.vercel.app/) · [GitHub Organization](https://github.com/YHOIKI-TEAM) · [Email](mailto:yhoikiteam@gmail.com)
 
----
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:087F8C,100:07111F&section=footer" width="100%" alt="Yhoiki footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:6B8F75,100:0F1A0F&section=footer" width="100%" alt="Yhoiki footer"/>
 
 **PT Yhoiki Digital Nusantara**
 
